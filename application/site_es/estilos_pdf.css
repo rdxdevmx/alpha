@@ -1,0 +1,49 @@
+
+
+table{	
+	font-size: 0.8em;
+	padding:3px;
+}
+
+/*td{
+	border: 1px solid black;
+}
+*/
+
+
+#header_img img{
+
+	width: 40%;
+	margin:0;
+	padding: 0;
+}
+
+#pdf_title{
+
+	margin-top: 50px;
+	text-align: center;
+}
+
+#datos_contacto {
+	width: 100%;
+	margin-left: 400px;
+}
+
+#tipo_formato{
+	width: 100%;
+	margin-bottom: 30px;
+}
+
+.img_checkbox{
+
+	width: 15px;
+}
+
+tbody tr  td span{
+	vertical-align: super;
+}
+
+table tr td { font-size: 0.8em;  }
+
+
+

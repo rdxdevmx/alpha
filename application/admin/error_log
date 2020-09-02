@@ -1,0 +1,336 @@
+[22-Jun-2020 18:34:09 UTC] Error Commands out of sync; you can't run this command now de la base de datos de WordPress para la consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_et_builder_ajax_cache' LIMIT 1 realizada por shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[22-Jun-2020 18:34:09 UTC] Error Commands out of sync; you can't run this command now de la base de datos de WordPress para la consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_et_builder_ajax_cache' LIMIT 1 realizada por shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[26-Jun-2020 20:23:58 UTC] Error Commands out of sync; you can't run this command now de la base de datos de WordPress para la consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_et_builder_ajax_cache' LIMIT 1 realizada por shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[26-Jun-2020 20:23:58 UTC] Error Commands out of sync; you can't run this command now de la base de datos de WordPress para la consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_et_builder_ajax_cache' LIMIT 1 realizada por shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[02-Jul-2020 19:32:45 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[02-Jul-2020 19:32:45 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => shastamacnasty9@gmail.com
+)
+
+[02-Jul-2020 19:32:46 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[02-Jul-2020 19:32:46 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[02-Jul-2020 19:32:47 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => shastamacnasty9@gmail.com
+)
+
+[02-Jul-2020 19:32:47 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[02-Jul-2020 19:32:48 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => shastamacnasty9@gmail.com
+)
+
+[02-Jul-2020 19:36:20 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[02-Jul-2020 19:36:21 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo.equilibriovisual@gmail.com
+)
+
+[02-Jul-2020 19:36:21 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[02-Jul-2020 19:36:21 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[02-Jul-2020 19:36:22 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo.equilibriovisual@gmail.com
+)
+
+[02-Jul-2020 19:36:22 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[02-Jul-2020 19:36:22 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo.equilibriovisual@gmail.com
+)
+
+[02-Jul-2020 19:48:12 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[02-Jul-2020 19:48:13 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => correo12@correo.com
+)
+
+[02-Jul-2020 20:09:42 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[02-Jul-2020 20:09:43 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo.equilibriovisual@gmail.com
+)
+
+[02-Jul-2020 20:09:43 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[02-Jul-2020 20:09:44 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo.equilibriovisual@gmail.com
+)
+
+[02-Jul-2020 20:09:45 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo.equilibriovisual@gmail.com
+)
+
+[02-Jul-2020 23:17:15 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[02-Jul-2020 23:17:16 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => correo0909876@mail.com
+)
+
+[02-Jul-2020 23:17:16 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[02-Jul-2020 23:17:16 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[02-Jul-2020 23:17:17 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => correo0909876@mail.com
+)
+
+[02-Jul-2020 23:17:17 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[02-Jul-2020 23:17:17 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => correo0909876@mail.com
+)
+
+[06-Jul-2020 17:10:36 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[06-Jul-2020 17:10:36 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => jorge.ehq@gmail.com
+)
+
+[06-Jul-2020 17:14:24 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[06-Jul-2020 17:14:25 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => jorge.ehq@gmail.com
+)
+
+[06-Jul-2020 17:14:25 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[06-Jul-2020 17:14:25 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[06-Jul-2020 17:14:26 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => jorge.ehq@gmail.com
+)
+
+[06-Jul-2020 17:14:26 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[06-Jul-2020 17:14:26 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => jorge.ehq@gmail.com
+)
+
+[17-Jul-2020 17:17:21 UTC] Error Commands out of sync; you can't run this command now de la base de datos de WordPress para la consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_timeout_et_builder_ajax_cache' LIMIT 1 realizada por shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[17-Jul-2020 17:17:21 UTC] Error Commands out of sync; you can't run this command now de la base de datos de WordPress para la consulta SELECT option_value FROM wp_options WHERE option_name = '_transient_et_builder_ajax_cache' LIMIT 1 realizada por shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, ET_Builder_Ajax_Cache->save, ET_Builder_Ajax_Cache->load, get_transient, get_option
+[24-Jul-2020 20:34:40 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[24-Jul-2020 20:34:41 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[24-Jul-2020 20:34:41 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[24-Jul-2020 20:34:42 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[24-Jul-2020 20:34:42 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[24-Jul-2020 20:34:42 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[24-Jul-2020 20:34:43 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[27-Jul-2020 20:23:49 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[27-Jul-2020 20:23:49 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo.equilibriovisual@gmail.com
+)
+
+[27-Jul-2020 20:39:24 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[27-Jul-2020 20:39:24 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => correo0909876333@mail.com
+)
+
+[27-Jul-2020 20:39:24 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[27-Jul-2020 20:39:25 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[27-Jul-2020 20:39:25 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => correo0909876333@mail.com
+)
+
+[27-Jul-2020 20:39:25 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => rdx@maildrop.cc
+)
+
+[27-Jul-2020 20:39:26 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => correo0909876333@mail.com
+)
+
+[11-Aug-2020 22:48:30 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => ricardo@equilibriovisual.com.mx
+)
+
+[11-Aug-2020 22:48:31 UTC] Sent mail to bool(false)
+Array
+(
+    [0] => correo090987633sss@mail.com
+)
+
