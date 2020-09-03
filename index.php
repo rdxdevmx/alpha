@@ -317,3 +317,6 @@ require_once BASEPATH.'core/CodeIgniter.php';
 
 
 echo 'cambios en el archivo 19:19';
+
+
+echo 'cambios en el archivo 19:21';
