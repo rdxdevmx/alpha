@@ -1,0 +1,26 @@
+
+
+h2{
+    margin-bottom: 50px;
+    font-weight: bold;
+    text-align: center;
+    font-size: 35px;
+}
+h3{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+
+section{
+    padding: 80px 0px;
+    
+}
+
+#detalles img{
+    width: 200px;
+    float: right;
+}
